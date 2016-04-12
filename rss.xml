@@ -4,7 +4,7 @@
         <description><![CDATA[paulconnaghan]]></description>
         <link>https://thegrid.ai/paulconnaghan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 07:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 07:30:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paulconnaghan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/paulconnaghan/27c14405-8d30-4139-8395-4bf6107b07fd/index.html</link>
             <guid isPermaLink="false">27c14405-8d30-4139-8395-4bf6107b07fd</guid>
             <pubDate>Tue, 12 Apr 2016 07:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Another post</p>]]></description>
+            <link>https://thegrid.ai/paulconnaghan/74669484-0f38-488e-a16a-505d4d27ead6/index.html</link>
+            <guid isPermaLink="false">74669484-0f38-488e-a16a-505d4d27ead6</guid>
+            <pubDate>Tue, 12 Apr 2016 07:30:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
