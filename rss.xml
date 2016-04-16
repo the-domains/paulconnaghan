@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[paulconnaghan]]></title>
-        <description><![CDATA[paulconnaghan]]></description>
-        <link>https://thegrid.ai/paulconnaghan/</link>
+        <title><![CDATA[Dedicated to User Centred Design]]></title>
+        <description><![CDATA[Dedicated to User Centred Design]]></description>
+        <link>http://www.gathervoice.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 07:38:23 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/paulconnaghan/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 17:31:38 GMT</lastBuildDate>
+        <atom:link href="http://www.gathervoice.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5fcde48-051a-46af-a125-33fef5bc1626.png">]]></description>
-            <link>https://thegrid.ai/paulconnaghan/27c14405-8d30-4139-8395-4bf6107b07fd/index.html</link>
+            <link>http://www.gathervoice.com/27c14405-8d30-4139-8395-4bf6107b07fd/index.html</link>
             <guid isPermaLink="false">27c14405-8d30-4139-8395-4bf6107b07fd</guid>
             <pubDate>Tue, 12 Apr 2016 07:15:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Looking for partners and working in Agile.</p>]]></description>
-            <link>https://thegrid.ai/paulconnaghan/looking-for-partners-and-working-in-agile/index.html</link>
-            <guid isPermaLink="false">fc531638-d65a-4f79-bb56-174ce12c3695</guid>
-            <pubDate>Tue, 12 Apr 2016 07:38:18 GMT</pubDate>
+            <description><![CDATA[<p>Another post</p>]]></description>
+            <link>http://www.gathervoice.com/74669484-0f38-488e-a16a-505d4d27ead6/index.html</link>
+            <guid isPermaLink="false">74669484-0f38-488e-a16a-505d4d27ead6</guid>
+            <pubDate>Sat, 16 Apr 2016 17:31:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Another post</p>]]></description>
-            <link>https://thegrid.ai/paulconnaghan/74669484-0f38-488e-a16a-505d4d27ead6/index.html</link>
-            <guid isPermaLink="false">74669484-0f38-488e-a16a-505d4d27ead6</guid>
-            <pubDate>Tue, 12 Apr 2016 07:31:32 GMT</pubDate>
+            <description><![CDATA[<p>Looking for partners and working in Agile.</p>]]></description>
+            <link>http://www.gathervoice.com/looking-for-partners-and-working-in-agile/index.html</link>
+            <guid isPermaLink="false">fc531638-d65a-4f79-bb56-174ce12c3695</guid>
+            <pubDate>Tue, 12 Apr 2016 07:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
