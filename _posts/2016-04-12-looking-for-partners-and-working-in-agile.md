@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Looking for partners and working in Agile.
-datePublished: '2016-04-12T07:38:18.652Z'
-dateModified: '2016-04-12T07:35:15.360Z'
+datePublished: '2016-04-27T07:28:08.760Z'
+dateModified: '2016-04-12T07:38:25.387Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-looking-for-partners-and-working-in-agile.md
