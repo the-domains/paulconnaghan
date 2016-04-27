@@ -4,7 +4,7 @@
         <description><![CDATA[Dedicated to User Centred Design]]></description>
         <link>http://www.gathervoice.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 07:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 07:28:11 GMT</lastBuildDate>
         <atom:link href="http://www.gathervoice.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to ]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Wed, 27 Apr 2016 07:25:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Looking for partners and working in Agile.</p>]]></description>
+            <link>http://www.gathervoice.com/looking-for-partners-and-working-in-agile/index.html</link>
+            <guid isPermaLink="false">fc531638-d65a-4f79-bb56-174ce12c3695</guid>
+            <pubDate>Wed, 27 Apr 2016 07:28:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Recruit User Research Participants]]></title>
             <description><![CDATA[<article><h1>Recruit User Research Participants</h1><h2>1. Design your survey </h2><p>Find out how to recruit candidates for effective customer insight interviews. </p></article>]]></description>
             <link>http://www.gathervoice.com/recruit-user-research-participants/index.html</link>
             <guid isPermaLink="false">b3b38aeb-56fd-4ab5-a24b-d69df3d8803b</guid>
             <pubDate>Mon, 18 Apr 2016 08:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Looking for partners and working in Agile.</p>]]></description>
-            <link>http://www.gathervoice.com/looking-for-partners-and-working-in-agile/index.html</link>
-            <guid isPermaLink="false">fc531638-d65a-4f79-bb56-174ce12c3695</guid>
-            <pubDate>Tue, 12 Apr 2016 07:38:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
