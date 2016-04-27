@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T07:26:49.458Z'
-dateModified: '2016-04-25T07:20:23.562Z'
+datePublished: '2016-04-27T07:31:11.863Z'
+dateModified: '2016-04-27T07:26:49.511Z'
 title: 'Welcome to '
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-16-welcome-to-adv.md
 published: true
 authors: []
@@ -22,6 +24,4 @@ url: welcome-to-adv/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d87e667-76f5-4de5-b10e-caed3c2a5216.png)
-
-# Welcome to
+# Welcome to ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee0f1698c73c8f32a3573d293647f9cccf5d9b0.png)
